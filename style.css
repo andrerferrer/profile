@@ -1,11 +1,11 @@
 /*HTML TAGS*/
 
 body {
-  background-color: #F7F9FC;
   color: #11999e;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1em;
   text-align: center;
+  background: linear-gradient(#F7F9FC, #DDFF);
 
 }
 
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .card {
-  background-color: white;
+  background: linear-gradient(#FFF, #F7F9FC);
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
