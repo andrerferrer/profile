@@ -84,7 +84,7 @@ a:hover {
 }
 
 .card {
-  background: linear-gradient(#FFF, #F7F9FC);
+  background-color: white;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
