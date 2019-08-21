@@ -9,8 +9,9 @@ body {
 
 }
 
-div {
-
+img {
+  width: 4em;
+  padding: 2px;
 }
 
 h1, h2 {
@@ -65,10 +66,16 @@ a:hover {
 
 .social-media-icons li {
   font-size: 300%;
-  list-style-type: none;
-  display: inline;
   border-radius: 50%;
   padding: 5px;
+}
+
+.ul-no-dot li {
+  list-style-type: none;
+}
+
+.ul-inline li {
+  display: inline;
 }
 
 .container {
